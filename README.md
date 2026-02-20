@@ -1,8 +1,8 @@
-# 📌 Projeto: Esquema Conceitual - Oficina Mecânica
+# 📌 Projeto: Esquema Conceitual - Oficina Mecânica:
 
 Este repositório apresenta o modelo conceitual (diagrama ER) para um sistema de controle e gerenciamento de ordens de serviço em uma **oficina mecânica**. A modelagem foi desenvolvida com base em uma narrativa-problema fornecida no contexto de um desafio prático de modelagem de banco de dados.
 
-## 📖 Contexto da Narrativa
+## 📖 Contexto da Narrativa:
 
 Clientes levam seus veículos até a oficina para consertos ou revisões periódicas. Cada veículo é designado a uma equipe de mecânicos, que avalia os problemas, preenche a OS (Ordem de Serviço), consulta os valores dos serviços com base em uma tabela de mão de obra e inclui também os valores das peças utilizadas. O cliente então autoriza a execução dos serviços. A mesma equipe é responsável por executar os serviços até a data de entrega.
 
